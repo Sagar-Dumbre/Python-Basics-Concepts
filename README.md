@@ -1,0 +1,1 @@
+Welcome to the Python Basics repository! 🐍 Here, you'll find a comprehensive overview of fundamental Python concepts, complete with explanations and illustrative examples. Whether you're a beginner or looking to refresh your Python skills, this repository is your one-stop resource.
